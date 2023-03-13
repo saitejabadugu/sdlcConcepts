@@ -1,0 +1,6 @@
+1. Requirement Analysis:
+2. Test Planning: 
+3. Test Case Development: 
+4. Test Environment Setup:
+5. Test Execution:
+6. Test Closure:

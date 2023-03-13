@@ -1,0 +1,25 @@
+SDLC Life Cycle
+
+There are five stages
+1. Project Initiation
+2. Gathering Requirements
+3. Design
+4. Coding
+5. Testing
+6. Deployment & Maintainance
+
+Two types of development models
+
+1. Agile
+a. There will be repeated more than once
+b. Development will be done in stages wise
+c. Final product takes time although middle executes the process
+Ex- Cycle Bike Car
+
+
+
+2. Waterfall - 
+a. Development can be made once
+b. It will take more time
+c. It has only one iteration
+Ex- Car parts
